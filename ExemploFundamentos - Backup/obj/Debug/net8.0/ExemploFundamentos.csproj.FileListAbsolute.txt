@@ -1,0 +1,15 @@
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.sourcelink.json
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.exe
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.deps.json
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.runtimeconfig.json
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.dll
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.dll
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploFundamentos.dll
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\Dell Inspiron\OneDrive\Documentos\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll
