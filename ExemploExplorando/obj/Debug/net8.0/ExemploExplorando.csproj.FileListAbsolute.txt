@@ -1,0 +1,17 @@
+C:\DotNet\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.exe
+C:\DotNet\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.deps.json
+C:\DotNet\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.runtimeconfig.json
+C:\DotNet\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.dll
+C:\DotNet\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.pdb
+C:\DotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\DotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfo.cs
+C:\DotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\DotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.dll
+C:\DotNet\ExemploExplorando\obj\Debug\net8.0\refint\ExemploExplorando.dll
+C:\DotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
+C:\DotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
+C:\DotNet\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
+C:\DotNet\ExemploExplorando\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\DotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\DotNet\ExemploExplorando\obj\Debug\net8.0\ExemploE.B7F01285.Up2Date
