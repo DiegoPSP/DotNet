@@ -25,12 +25,6 @@ using Newtonsoft.Json;
 
 
 
-
-
-
-
-
-
 // MeuArray<int> arrayInteiro = new MeuArray<int>();
 
 // arrayInteiro.AdicionarElementoArray(22);
